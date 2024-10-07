@@ -2,6 +2,18 @@
 
 This project is designed to monitor the soil moisture level and automatically control a water pump (via a relay) and a buzzer based on soil moisture levels. The system also sends the soil moisture and relay state data to ThingSpeak for monitoring.
 
+# Youtube - Code Explanation Video Link:
+https://youtu.be/UxTNh2QGyWA
+
+# Youtube - Project Demo Video Link:
+https://youtu.be/CFWX40qb3Ts
+
+# Code Link : 
+https://github.com/AtharvaPawar456/HMP-Smart-Plant-Watering-System/blob/main/code.ino
+
+# Simulation Link:
+https://wokwi.com/projects/411087171633917953
+
 ## Components Used
 - ESP8266 (NodeMCU)
 - Relay Module
